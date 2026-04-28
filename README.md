@@ -1,12 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Luisa;Machine+Learning+Engineer+🤖;Python+%26+Data+Science+lover+🐍" alt="Typing SVG" />
-
-</div>
-
 ---
 
-- 🤖 Engenheira de Machine Learning
+- 🤖 Machine Learning
 
 ---
 
