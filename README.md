@@ -1,19 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**luisafrancielle/luisafrancielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Luisa;Machine+Learning+Engineer+🤖;Python+%26+Data+Science+lover+🐍" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🤖 Engenheira de Machine Learning
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisafrancielle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisafrancielle&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+### 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
